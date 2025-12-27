@@ -1,0 +1,8 @@
+flask==2.3.3
+flask-cors==4.0.0
+pymysql==1.0.3
+bcrypt==4.0.1
+ultralytics==8.0.196
+opencv-python==4.8.1.78
+numpy==1.24.4
+python-dotenv==1.0.0

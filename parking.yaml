@@ -1,0 +1,10 @@
+# YOLOv8 Parking Dataset Configuration
+
+# Paths (relative to yolov8 root)
+train: dataset/images/train
+val: dataset/images/val
+test: dataset/images/test
+
+# Classes
+nc: 2  # number of classes
+names: ['empty_parking_space', 'occupied_parking_space']  # class names

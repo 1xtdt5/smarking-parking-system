@@ -1,0 +1,22 @@
+ * Serving Flask app 'app' (lazy loading)
+ * Environment: development
+ * Debug mode: off
+ * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://192.168.213.58:5000/ (Press CTRL+C to quit)
+192.168.213.58 - - [22/Dec/2025 16:08:01] "POST /api/login HTTP/1.1" 200 -
+192.168.213.58 - - [22/Dec/2025 16:08:01] "GET /dashboard HTTP/1.1" 200 -
+192.168.213.58 - - [22/Dec/2025 16:08:01] "GET /static/images/default_dashboard.jpg HTTP/1.1" 404 -
+192.168.213.58 - - [22/Dec/2025 16:08:02] "GET /static/css/style.css HTTP/1.1" 304 -
+192.168.213.58 - - [22/Dec/2025 16:08:02] "GET /api/get-dashboard-data HTTP/1.1" 200 -
+192.168.213.58 - - [22/Dec/2025 16:08:06] "GET /detect HTTP/1.1" 200 -
+192.168.213.58 - - [22/Dec/2025 16:08:06] "GET /static/css/style.css HTTP/1.1" 304 -
+192.168.213.58 - - [22/Dec/2025 16:08:08] "GET /video-detect HTTP/1.1" 200 -
+192.168.213.58 - - [22/Dec/2025 16:08:08] "GET /static/css/style.css HTTP/1.1" 304 -
+192.168.213.58 - - [22/Dec/2025 16:08:11] "GET /realtime-detect HTTP/1.1" 200 -
+192.168.213.58 - - [22/Dec/2025 16:08:11] "GET /static/css/style.css HTTP/1.1" 304 -
+192.168.213.58 - - [22/Dec/2025 16:08:14] "GET /model-data HTTP/1.1" 200 -
+192.168.213.58 - - [22/Dec/2025 16:08:14] "GET /static/css/style.css HTTP/1.1" 304 -
+192.168.213.58 - - [22/Dec/2025 16:08:14] "GET /api/model-data HTTP/1.1" 200 -
+192.168.213.58 - - [22/Dec/2025 16:08:18] "GET /user-management?username=admin&password=admin123 HTTP/1.1" 200 -
+192.168.213.58 - - [22/Dec/2025 16:08:18] "GET /static/css/style.css HTTP/1.1" 304 -

@@ -1,0 +1,24 @@
+﻿**********************
+Windows PowerShell 脚本开始
+开始时间: 20251217105304
+用户名: SHI\25031
+RunAs 用户: SHI\25031
+配置名称: 
+计算机: SHI (Microsoft Windows NT 10.0.26100.0)
+主机应用程序: C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe -noexit -command try { . "d:\Trae CN\resources\app\out\vs\workbench\contrib\terminal\common\scripts\shellIntegration.ps1" } catch {}
+进程 ID: 22760
+PSVersion: 5.1.26100.7462
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.26100.7462
+BuildVersion: 10.0.26100.7462
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+已启动脚本，输出文件为 mask_to_yolo_full.log
+
+**********************
+Windows PowerShell 脚本结束
+结束时间: 20251217105331
+**********************
